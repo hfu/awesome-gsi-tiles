@@ -9,6 +9,12 @@ awesome list of the application of GSI Tiles. work in progress.
 - [e-Map Samukawa](http://www.town.samukawa.kanagawa.jp/~gis/) is a web map by Samukawa city.
 - [GSI Maps on Leaflet](http://www.shirado.jp/gis/leaflet/) is GSI Maps for registered land and building investigators.
 - [Greath East Japan Earthquake Archive](http://shinsai.mapping.jp/index_en.html)
+- [GSI annotation data](http://frogcat.github.io/gsi-anno/)
+- [GSI annotation data romanized on the fly](http://frogcat.github.io/gsi-anno/en/)
+- [Voronoi diagram from annotation data](http://frogcat.github.io/gsi-anno-voronoi/)
+- [River flowing](http://frogcat.github.io/gsi-river/)
+- [FGD vector tiles and OSM vector tiles on Tangram](http://meetar.github.io/cyberjapan)
+- [FGD vactor tile data explorer](http://meetar.github.io/cyberjapan-explorer)
 - TODO
 
 ### 3D
